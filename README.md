@@ -40,3 +40,7 @@ python extract_plane_siderosis.py ` #Runs the main Python script for generating 
   --siderosis_value 17 `#Sets the pixel intensity value of the lesion (low value to simulate hypointense regions in T2*-GRE).
   
   --out siderosis_z120.pgm #Specifies the output file name. The generated 2D slice with the simulated lesion will be saved as siderosis_z120.pgm.
+
+  
+  
+  
