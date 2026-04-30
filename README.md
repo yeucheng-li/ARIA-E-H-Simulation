@@ -56,7 +56,9 @@ a, b, c is the radius along the x axis, y axis, z axis respectively
 Val is the normalized distance parameter used to determine whether a voxel lies inside or outside the ellipsoid boundary. (If Val<1, the voxel is inside the ellipsoid and is assigned as lesion tissue; if Val>1, the voxel remains unchanged)
 
 The lesions could be rotated by Rotational Transformation Algorithm:
-<img width="573" height="189" alt="image" src="https://github.com/user-attachments/assets/0ca071c2-528e-4348-bde3-447a42274ba3" />
+
+<img width="699" height="948" alt="image" src="https://github.com/user-attachments/assets/aca0c1eb-805c-48a5-9bd1-ed64f425cbf5" />
+
 
 Roughness Simulation:
 
