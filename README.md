@@ -41,8 +41,14 @@ python extract_plane_siderosis.py ` #Runs the main Python script for generating 
   
   --out siderosis_z120.pgm #Specifies the output file name. The generated 2D slice with the simulated lesion will be saved as siderosis_z120.pgm.
 
-  
+# Technical Details 
 <img width="431" height="106" alt="image" src="https://github.com/user-attachments/assets/1c6a5624-8e63-4c80-9034-d595690f9ec9" />
+
+Where:
+x, y, z are the coordinates of the current voxel
+xc, yc, zc are the coordinates of the centre of the ellipsoid
+a, b, c is the radius along the x axis, y axis, z axis respectively
+Val is the normalized distance parameter used to determine whether a voxel lies inside or outside the ellipsoid boundary. (If Val<1, the voxel is inside the ellipsoid and is assigned as lesion tissue; if Val>1, the voxel remains unchanged)
 
   
   
