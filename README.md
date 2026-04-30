@@ -42,5 +42,8 @@ python extract_plane_siderosis.py ` #Runs the main Python script for generating 
   --out siderosis_z120.pgm #Specifies the output file name. The generated 2D slice with the simulated lesion will be saved as siderosis_z120.pgm.
 
   
+<img width="431" height="106" alt="image" src="https://github.com/user-attachments/assets/1c6a5624-8e63-4c80-9034-d595690f9ec9" />
+
+  
   
   
