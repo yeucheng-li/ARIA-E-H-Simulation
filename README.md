@@ -65,6 +65,7 @@ Roughness Simulation:
 <img width="716" height="978" alt="image" src="https://github.com/user-attachments/assets/4c22e08f-69ad-4bca-96e5-5814cf9add9c" />
 
 
-  
+# Future Improvement:
+Future work could focus on automating lesion placement based on anatomical constraints to reduce manual intervention and improve scalability. In addition, incorporating higher-resolution DHP datasets and more realistic MRI physics would further enhance the accuracy and visual fidelity of the generated lesions.
   
   
